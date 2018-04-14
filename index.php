@@ -1,5 +1,5 @@
 <?
-
+// Example 
 // Include the script 
 require 'Addcontext.php';
 
