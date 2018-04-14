@@ -1,7 +1,7 @@
 <?
 // Example 
 // Include the script 
-require 'Addcontext.php';
+require 'src/Addcontext.php';
 
 // Initialize the class
 use \TANIOS\Addcontext\Addcontext;

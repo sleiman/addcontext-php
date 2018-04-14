@@ -1,6 +1,5 @@
 <?
 
-namespace TANIOS\Addcontext;
 
 /**
  * Addcontext API Class
@@ -9,6 +8,12 @@ namespace TANIOS\Addcontext;
  * @copyright Sleiman Tanios - TANIOS 2018
  * @version 1.0
  */
+
+
+
+namespace TANIOS\Addcontext;
+
+
 
 
 class Addcontext 
