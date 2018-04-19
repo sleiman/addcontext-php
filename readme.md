@@ -1,5 +1,5 @@
 # AddContext PHP Wrapper
-A PHP wrapper for the [ AddContext API](https://addcontext.io/" AddContext API"). Feedback or bug reports are appreciated.
+A PHP wrapper for the [AddContext API](https://addcontext.io/). Feedback or bug reports are appreciated.
 
 
 ## Get started
