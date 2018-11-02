@@ -14,7 +14,7 @@ namespace TANIOS\Addcontext;
 class Addcontext 
 {
 
-    const API_URL = "https://api.airtable.com/v0/";
+    const API_URL = "https://context.tanios.ca/api/";
     
     private $_key;
     
@@ -41,7 +41,7 @@ class Addcontext
     function createSnapshotRequest($fields){
 
         $fields_string = "";
-        $api_url =  self::API_URL."/snapshot_requests";
+        $api_url =  self::API_URL."snapshot_requests";
 
     
     
